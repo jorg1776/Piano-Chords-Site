@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Piano_Chords", "Piano_Chords\Piano_Chords.csproj", "{447855D5-D361-496A-8447-8FB0FF37A0AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{447855D5-D361-496A-8447-8FB0FF37A0AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{447855D5-D361-496A-8447-8FB0FF37A0AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{447855D5-D361-496A-8447-8FB0FF37A0AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{447855D5-D361-496A-8447-8FB0FF37A0AC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7E2C6CE-38B4-4626-88CA-0A68A0662964}
+	EndGlobalSection
+EndGlobal
